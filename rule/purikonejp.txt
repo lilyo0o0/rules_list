@@ -1,0 +1,7 @@
+# API, resources, etc.
+# Home page
+# `purikone` is for `purinsesukonekuto` (プリンセスコネクト)
+DOMAIN,prd-priconne-redive.akamaized.net
+DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
+DOMAIN-SUFFIX,omotenashi.cygames.jp
+DOMAIN-SUFFIX,priconne-redive.jp

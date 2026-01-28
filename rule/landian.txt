@@ -1,0 +1,11 @@
+# 浙ICP备14021835号-1
+# 浙ICP备19001095号-10
+# 浙ICP备19001095号-2
+# 浙ICP备19001095号-4
+# 蓝点网
+DOMAIN-SUFFIX,lancdn.com
+DOMAIN-SUFFIX,landian.vip
+DOMAIN-SUFFIX,landian.xyz
+DOMAIN-SUFFIX,landiannews.com
+DOMAIN-SUFFIX,ourl.co
+DOMAIN-SUFFIX,wsoso.com
