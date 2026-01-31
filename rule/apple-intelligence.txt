@@ -1,0 +1,11 @@
+# * Availability region detection for Apple Watch notifications (High Blood Pressure / Sleep Apnea)
+# * China-specific version of Apple Maps
+# * Enabling Wi-Fi Calling for certain carriers
+# * eSIM region determination for devices in China
+# ChatGPT Extension
+# Potentially affected services include:
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,apple-relay.mask.apple-dns.net
+DOMAIN,gspe1-ssl.ls.apple.com

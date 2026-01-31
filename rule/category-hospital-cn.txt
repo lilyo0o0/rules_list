@@ -1,0 +1,11 @@
+# 南方医科大学深圳医院
+# 四川大学华西医院
+# 运城同德医院 晋ICP备15008538号-1
+DOMAIN,hospital.pku.edu.cn
+DOMAIN,ss.bjmu.edu.cn
+DOMAIN-SUFFIX,cd120.com
+DOMAIN-SUFFIX,fuwai.com
+DOMAIN-SUFFIX,pkuh6.cn
+DOMAIN-SUFFIX,puh3.net.cn
+DOMAIN-SUFFIX,smuszh.com
+DOMAIN-SUFFIX,yctdyy.com

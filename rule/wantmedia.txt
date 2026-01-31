@@ -1,0 +1,21 @@
+# 中国时报
+# 中国电视
+# 中天电视台
+# 中时新闻网时报资讯
+# 中旺电视
+# 工商时报
+# 时报周刊
+DOMAIN-SUFFIX,benliton.com
+DOMAIN-SUFFIX,chinatimes.com
+DOMAIN-SUFFIX,chinatimes.com.tw
+DOMAIN-SUFFIX,ctee.com.tw
+DOMAIN-SUFFIX,ctitv.com.tw
+DOMAIN-SUFFIX,ctv.com.tw
+DOMAIN-SUFFIX,ctwant.com
+DOMAIN-SUFFIX,infotimes.com.tw
+DOMAIN-SUFFIX,lecoin.cc
+DOMAIN-SUFFIX,loveparents.org
+DOMAIN-SUFFIX,superstation.com.tw
+DOMAIN-SUFFIX,want-media.com
+DOMAIN-SUFFIX,wantblogger.com
+DOMAIN-SUFFIX,zwtvusa.com

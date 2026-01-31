@@ -1,0 +1,3 @@
+# CDN
+DOMAIN-SUFFIX,mdhcdn.com
+DOMAIN-SUFFIX,mydirtyhobby.com
