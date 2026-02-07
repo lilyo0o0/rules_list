@@ -1,0 +1,4 @@
+#Domain for generated download links:
+#Main website:
+DOMAIN-SUFFIX,userdrive.org
+DOMAIN-SUFFIX,usersdrive.com

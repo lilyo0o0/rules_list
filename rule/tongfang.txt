@@ -1,0 +1,6 @@
+# 同方商城
+# 同方股份
+# 机械革命
+DOMAIN-SUFFIX,mechrevo.com
+DOMAIN-SUFFIX,thtf.com.cn
+DOMAIN-SUFFIX,tongfangpc.com

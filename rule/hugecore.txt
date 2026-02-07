@@ -1,0 +1,4 @@
+# MOJi辞書
+DOMAIN-SUFFIX,hugecore.net
+DOMAIN-SUFFIX,mojidict.com
+DOMAIN-SUFFIX,shareintelli.com

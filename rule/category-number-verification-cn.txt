@@ -1,0 +1,11 @@
+# China Mobile
+# China Telecom
+# China Unicom
+# SDKs provided by Chinese ISP are used by apps to determine the phone number through celluar network.
+DOMAIN,enrichgw.10010.com
+DOMAIN,hap.10010.com
+DOMAIN,hs.wosms.cn
+DOMAIN,id6.me
+DOMAIN,opencloud.wostore.cn
+DOMAIN-SUFFIX,cmpassport.com
+URL-REGEX,^nis.+\.10010\.com$

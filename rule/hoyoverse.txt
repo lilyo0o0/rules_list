@@ -1,0 +1,16 @@
+# HoYoLab
+# HoYoverse
+# n0va
+# 原神
+# 崩壞3
+# 星穹鐵道
+# 短網址
+# 絕區零(Zenless Zone Zero)
+DOMAIN-SUFFIX,genshinimpact.com
+DOMAIN-SUFFIX,honkaiimpact3.com
+DOMAIN-SUFFIX,honkaistarrail.com
+DOMAIN-SUFFIX,hoyo.link
+DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,hoyoverse.com
+DOMAIN-SUFFIX,n0vadesktop.com
+DOMAIN-SUFFIX,zenlesszonezero.com
